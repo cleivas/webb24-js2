@@ -1,0 +1,22 @@
+[
+    {
+        "name": "B",
+        "score": 3
+    },
+    {
+        "name": "C",
+        "score": 3
+    },
+    {
+        "name": "A",
+        "score": 2
+    },
+    {
+        "name": "F",
+        "score": 1
+    },
+    {
+        "name": "D",
+        "score": 0
+    }
+]
