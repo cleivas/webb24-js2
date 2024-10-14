@@ -2,7 +2,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    /* background-color: hsl(210, 25%, 95%); */
     transition: background-color 0.3s ease-in-out;
 }
 h1, h2, h3{

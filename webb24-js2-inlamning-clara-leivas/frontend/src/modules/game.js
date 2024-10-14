@@ -8,7 +8,6 @@ import { displayHighScore, updateScoreGUI, flashGreen, flashRed, displayError } 
 import { addHighscore, minScoreInList } from "./highscorefetch.js";
 
     
-
 const btnContainer = document.querySelector("#guessBtns");
 let userScore;
 

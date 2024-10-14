@@ -1,5 +1,5 @@
 /**
- * Functions for sending http requests to othe server containing the highscore list
+ * Functions for sending http requests to the server containing the highscore list
  */
 
 const url = 'http://localhost:3000/highscore'
