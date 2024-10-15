@@ -1,0 +1,42 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    transition: background-color 0.3s ease-in-out;
+}
+h1, h2, h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+.result{
+    margin-bottom: 3rem;;
+}
+
+#highscore{
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+.score-div{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    /* border: 1px solid gray; */
+    width: 11rem;
+    padding: 0 1rem;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+
+.error{
+    width: 15rem;
+    border: 3px solid rgba(152, 0, 0, 0.611);
+    border-radius: 4px;
+    padding: 2rem;
+}
+
+.correct{
+    background-color: rgb(44, 178, 118); 
+}
+.wrong{
+    background-color: rgb(211, 96, 96);
+}
